@@ -24,4 +24,5 @@ Impacto Regional: Las regiones de Noreste (NEA) y Noroeste (NOA) presentan coefi
 
 Conclusiones Los resultados indican una reinstalación de los patrones estructurales de desigualdad en 2022 tras la "mejora artificial" de los indicadores durante la unidad pedagógica de 2020-2021. La investigación concluye que el territorio y el nivel socioeconómico siguen siendo los principales determinantes del éxito escolar en Argentina.
 
+
 <img width="986" height="590" alt="image" src="https://github.com/user-attachments/assets/7c6c5b42-ace8-4a44-b309-bebd9c5df8b9" />
